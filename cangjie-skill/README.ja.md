@@ -76,10 +76,33 @@ RIA-TV++ の名前の由来：
 | [buffett-letters-skill](https://github.com/kangarooking/buffett-letters-skill) | バフェットの株主への手紙（1957-2023） | 20 |
 | [cognitive-dividend-skill](https://github.com/kangarooking/cognitive-dividend-skill) | 認知の红利 | 15 |
 | [duan-yongping-skill](https://github.com/kangarooking/duan-yongping-skill) | 段永平の投資Q&A（ビジネス+投資ロジック） | 15 |
+| [viral-copywriting-skill](https://github.com/kangarooking/viral-copywriting-skill) | 『爆款文案』 | 14 |
+| [copywriters-handbook-skill](https://github.com/kangarooking/copywriters-handbook-skill) | 『The Copywriter's Handbook』 | 12 |
+| [contagious-skill](https://github.com/kangarooking/contagious-skill) | 『Contagious』 | 15 |
+| [influence-skill](https://github.com/kangarooking/influence-skill) | 『Influence』 | 12 |
+| [1000-true-fans-skill](https://github.com/kangarooking/1000-true-fans-skill) | 『1000 True Fans』 | 13 |
+| [system-prompt-skills](https://github.com/kangarooking/system-prompt-skills) | 165個のAI製品システムプロンプト | 15 |
 | [poor-charlies-almanack-skill](https://github.com/kangarooking/poor-charlies-almanack-skill) | 貧しきチャーリーの格言 | 12 |
 | [no-rules-rules-skill](https://github.com/kangarooking/no-rules-rules-skill) | No Rules Rules | 10 |
+| 黄帝内経・素問（本プロジェクト内） | 『黄帝内経・素問』 | 10 |
+| 黄帝内経・霊枢（本プロジェクト内） | 『黄帝内経・霊枢』 | 8 |
+| [first-principles-skill](https://github.com/kangarooking/first-principles-skill) | 『第一性原理』 | 10 |
+| [mao-selected-works-skill](https://github.com/kangarooking/mao-selected-works-skill) | 『毛沢東選集』第1-5巻 | 25 |
+| [qbdx-hub/buffett-letters-skill](https://github.com/qbdx-hub/buffett-letters-skill) | バフェット株主への手紙（1957-2023） | 20 |
+| [qbdx-hub/wo-yu-di-tan-skill](https://github.com/qbdx-hub/wo-yu-di-tan-skill) | 『我与地坛』 | 6 |
+| [qbdx-hub/mingchao-those-things-skill](https://github.com/qbdx-hub/mingchao-those-things-skill) | 『明朝那些事儿』 | 7 |
+| [qbdx-hub/sunzi-bingfa-skill](https://github.com/qbdx-hub/sunzi-bingfa-skill) | 『孫子兵法』 | 8 |
+| [qbdx-hub/zhouyi-skill](https://github.com/qbdx-hub/zhouyi-skill) | 『周易』 | 8 |
+| [qbdx-hub/high-math-vol1-ch1-skill](https://github.com/qbdx-hub/high-math-vol1-ch1-skill) | 高等数学上冊第1章 | 8 |
 
 より多くの高価値な本の蒸留を計画中。
+
+追加の外部ソース（著者本人の許可を得て掲載）：
+
+- 元リポジトリ: [ace3000chao/book2startup](https://github.com/ace3000chao/book2startup)
+- 書目: 『リーン・スタートアップ』『孫子兵法』『荘子』『易経』
+- 元リポジトリ: [shenqistart/book2skill](https://github.com/shenqistart/book2skill)
+- 書目: 『纏論』『茶経』
 
 ## リポジトリ構造
 
@@ -112,6 +135,27 @@ cangjie-skill はより大きなスキルエコシステムの一部です：
 - [No Rules Rules Skill](https://github.com/kangarooking/no-rules-rules-skill) — ネットフリックスの自由と責任の文化から抽出した10個の組織設計スキル
 - [Cognitive Dividend Skill](https://github.com/kangarooking/cognitive-dividend-skill) — 『認知の红利』から抽出した15個の認知ツールスキル
 - [Duan Yongping Skill](https://github.com/kangarooking/duan-yongping-skill) — 段永平の投資Q&Aから抽出した15個のビジネス・投資スキル
+- [Viral Copywriting Skill](https://github.com/kangarooking/viral-copywriting-skill) — 『爆款文案』から抽出した14個の販売コピーライティング・診断スキル
+- [Copywriters Handbook Skill](https://github.com/kangarooking/copywriters-handbook-skill) — 『The Copywriter's Handbook』から抽出した12個の販売コピー・見出し・ベネフィット変換スキル
+- [Contagious Skill](https://github.com/kangarooking/contagious-skill) — 『Contagious』から抽出した15個のSTEPPS伝播戦略・口コミ診断スキル
+- [Influence Skill](https://github.com/kangarooking/influence-skill) — 『Influence』から抽出した12個の説得心理・コンプライアンス機制・防御判断スキル
+- [1000 True Fans Skill](https://github.com/kangarooking/1000-true-fans-skill) — 『1000 True Fans』から抽出した13個の個人ブランド・真のファン育成・信頼ベース収益化スキル
+- [System Prompt Skills](https://github.com/kangarooking/system-prompt-skills) — 165個のAI製品システムプロンプトから抽出した15個のシステムプロンプト設計スキル
+- Huangdi Neijing Suwen Skill（本プロジェクト内）— 『黄帝内経・素問』から抽出した10個の中医観察・調整スキル
+- Huangdi Neijing Lingshu Skill（本プロジェクト内）— 『黄帝内経・霊枢』から抽出した8個の心身調整・弁証スキル
+- [First Principles Skill](https://github.com/kangarooking/first-principles-skill) — 『第一性原理』から抽出した10個の公理化思考・破界イノベーション・組織刷新スキル
+- [Mao Selected Works Skill](https://github.com/kangarooking/mao-selected-works-skill) — 『毛沢東選集』第1-5巻から抽出した25個の認知・戦略・組織・実行スキル
+- [qbdx-hub Buffett Letters Skill](https://github.com/qbdx-hub/buffett-letters-skill) — バフェット株主への手紙から抽出した20個の投資・資本配分スキル
+- [qbdx-hub Wo Yu Di Tan Skill](https://github.com/qbdx-hub/wo-yu-di-tan-skill) — 『我与地坛』から抽出した6個の制約・苦難・執筆・自己定位スキル
+- [qbdx-hub Mingchao Those Things Skill](https://github.com/qbdx-hub/mingchao-those-things-skill) — 『明朝那些事儿』から抽出した7個の権力構造・制度失敗・歴史説明スキル
+- [qbdx-hub Sunzi Bingfa Skill](https://github.com/qbdx-hub/sunzi-bingfa-skill) — 『孫子兵法』から抽出した8個の戦略判断・資源制御・行動選択スキル
+- [qbdx-hub Zhouyi Skill](https://github.com/qbdx-hub/zhouyi-skill) — 『周易』から抽出した8個の状況診断・時機判断・進退境界スキル
+- [qbdx-hub High Math Vol. 1 Chapter 1 Skill](https://github.com/qbdx-hub/high-math-vol1-ch1-skill) — 高等数学上冊第1章から抽出した8個の極限・無限小・連続性学習スキル
+
+External Source（著者本人の許可を得て掲載）:
+
+- [book2startup](https://github.com/ace3000chao/book2startup) — 『リーン・スタートアップ』『孫子兵法』『荘子』『易経』を蒸留した skills を含む
+- [book2skill](https://github.com/shenqistart/book2skill) — 『纏論』『茶経』を蒸留した AI-Agent skills を含む
 
 ## 作者について
 
