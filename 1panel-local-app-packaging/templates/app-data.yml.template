@@ -1,0 +1,15 @@
+additionalProperties:
+  key: <app-key>
+  name: <app-name>
+  tags:
+    - Local
+    - Tool
+  description:
+    en: Custom Docker application packaged for 1Panel local installation.
+    zh: 自定义 Docker 应用的 1Panel 本地应用包。
+  type: tool
+  crossVersionUpdate: false
+  limit: 0
+  website: https://example.com/
+  github: https://github.com/example/example
+  document: https://example.com/docs

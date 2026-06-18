@@ -1,0 +1,21 @@
+networks:
+  1panel-network:
+    external: true
+services:
+  app:
+    container_name: ${CONTAINER_NAME}
+    image: ${IMAGE}
+    restart: always
+    networks:
+      - 1panel-network
+    ports:
+      - ${HOST_IP}:${PANEL_APP_PORT_HTTP}:3000
+    environment:
+      - TZ=Asia/Shanghai
+    volumes:
+      - ${DATA_DIR}:/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3

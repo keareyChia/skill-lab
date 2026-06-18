@@ -1,0 +1,4 @@
+#!/bin/bash
+set -euo pipefail
+
+echo "Initializing 1Panel app environment"

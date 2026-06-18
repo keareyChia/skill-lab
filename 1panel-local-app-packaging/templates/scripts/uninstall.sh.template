@@ -1,0 +1,4 @@
+#!/bin/bash
+set -euo pipefail
+
+echo "Uninstalling 1Panel app"
