@@ -1,4 +1,4 @@
-# Cangjie Skill
+﻿# Cangjie Skill
 
 本を実行可能な AI スキルのセットに蒸留します。
 
